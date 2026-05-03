@@ -5,6 +5,14 @@ I make some code, and like, stuff.
 <img width="32" height="64" alt="furude_rika_pixelart_nobg_palette_smol_adjusted" src="https://github.com/user-attachments/assets/acb850ef-d211-457f-8f5e-0d8977f4634b" />
 
 ## Cool Stuff
+[mii-text](https://github.com/mii-nipah/mii-text): A unix-like tool for generating text from LLMs
+
+[mii-http](https://github.com/mii-nipah/mii-http): A simple unix-like tool for turning simple shell commands into a working http server
+
+[ClaySharp](https://github.com/mii-nipah/ClaySharp): A C# library inspired by Nic Barker's Clay, for building nice UIs with the immediate mode paradigm
+
+[app-maker-mcp](https://github.com/mii-nipah/app-maker-mcp): A tool for AI agents to iterate autonomously with native applications
+
 [mii-sound](https://github.com/mii-nipah/mii-sound): A tool for generating audio from text (+ voice cloning)
 
 [voxcpm-rs](https://github.com/mii-nipah/voxcpm-rs): A library for running the model VoxCPM2 on the GPU for a variety of graphic cards using wgpu
